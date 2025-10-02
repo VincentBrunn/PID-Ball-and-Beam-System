@@ -1,11 +1,5 @@
-**Title:** PID-Controlled Ball-and-Beam System
 
-**Blurb:**  
-Designed and built a ball-and-beam control system using an Arduino Uno, HC-SR04 ultrasonic sensor, and a NEMA-17 stepper motor driven by a TMC2209 on a CNC Shield. A discrete PID controller regulates ball position by adjusting beam angle; features include optional homing with an AS5600 magnetic encoder, manual setpoint via potentiometer, and serial data logging for tuning. Demonstrated skills in control systems, embedded programming, sensor integration, and rapid prototyping.
-
----
-
-# README.md — Ball-and-Beam Control (Arduino + PID)
+# Ball-and-Beam Control (Arduino + PID)
 
 A reproducible ball-and-beam system with position feedback from an HC-SR04 ultrasonic sensor and actuation via a NEMA-17 stepper (TMC2209 on a CNC Shield). A discrete PID loop closes the loop on ball position. Optional homing/reference: AS5600 magnetic encoder or a limit switch.
 
