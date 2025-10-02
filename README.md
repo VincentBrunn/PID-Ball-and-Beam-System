@@ -2,7 +2,7 @@
 # Ball-and-Beam Control (Arduino + PID)
 
 A reproducible ball-and-beam system with position feedback from an HC-SR04 ultrasonic sensor and actuation via a NEMA-17 stepper (TMC2209 on a CNC Shield). A discrete PID loop closes the loop on ball position. Optional homing/reference: AS5600 magnetic encoder or a limit switch.
-
+Video Here: https://drive.google.com/file/d/1FnhjYiGbXrUGmqKmbNPuyDkxjPleGBRv/view?usp=sharing
 ## Features
 - PID position control (manual and automatic setpoint modes)
 - Stepper actuation via STEP/DIR (TMC2209; current set by driver)
